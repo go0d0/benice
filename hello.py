@@ -5,4 +5,8 @@ while True:
  print("============= password =============")
  print("\n\n")
  pw = input("masukkan passowrd: ")
- print(f"{pw}")
+ if len(pw) <=5:
+    print("panjang password minimal 6 karakter")
+
+
+

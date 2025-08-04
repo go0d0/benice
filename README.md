@@ -3,8 +3,8 @@
 benice adalah program sederhana untuk memeriksa kekuatan password menggunakan bahasa python.
 
 Beberapa pengecekan yg dilakukan oleh benice:
--huruf besar
--huruf kecil 
--simbol unik 
--angka 
--minimal panjang
+- huruf besar
+- huruf kecil 
+- simbol unik 
+- angka 
+- minimal panjang

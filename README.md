@@ -1,5 +1,5 @@
 # benice
-![logo](images/file_00000000cc94622f96d01ae16e7e0981.png)
+![logo](images/logo.png)
 benice adalah program CLI sederhana menggunakan bahasa Python, program ini dibuat untuk memeriksa kekuatan password.
 <br>
 <br>

@@ -18,3 +18,5 @@ Tingkatan keamanan password terdiri:
 - Weak
 - Medium
 - Strong
+
+# Ringkasan

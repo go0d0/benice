@@ -45,13 +45,13 @@ Based on the final score, the password strength is categorized into one of three
 
 -   **Weak:** Score of 2 or less.
     <p align="center">
-        <img src="images/Weak.png" alt="weak password" width="150"/>
+        <img src="images/Weak.png" alt="weak password" width="500"/>
     </p>
 -   **Medium:** Score of 3.
     <p align="center">
-        <img src="images/medium.png" alt="medium password" width="150"/>
+        <img src="images/medium.png" alt="medium password" width="500"/>
     </p>
 -   **Strong:** Score of 4 or 5.
     <p align="center">
-        <img src="images/Strong.png" alt="strong password" width="150"/>
+        <img src="images/Strong.png" alt="strong password" width="500"/>
     </p>
